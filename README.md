@@ -1,4 +1,4 @@
-#Rayelus Web
+#RAYELUS - OFICIAL WEB ARCHIVES
 
-- Mi portfolio para mi web
-- Mi web oficial
+- Archivos de mi sitio web OFICIAL
+- Portfolio de mi web
