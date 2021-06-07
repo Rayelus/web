@@ -1,4 +1,3 @@
-#RAYELUS - OFICIAL WEB ARCHIVES
+# Rayelus Web
 
-- Archivos de mi sitio web OFICIAL
-- Portfolio de mi web
+_Este proyecto es el código fuente de mi sitio web oficial_
