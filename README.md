@@ -28,9 +28,9 @@ _Simplemente dale al botón que te proporciona github para descargar un archivo 
 https://docs.github.com/assets/images/help/repository/code-button.png
 ```
 
-## Despliegue 📦
+## Información 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Información del proyecto_
 
 ## Construido con 🛠️
 
